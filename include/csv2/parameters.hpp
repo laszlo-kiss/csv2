@@ -48,3 +48,5 @@ template <bool flag> struct first_row_is_header {
 };
 
 }
+
+namespace CSV = csv2;

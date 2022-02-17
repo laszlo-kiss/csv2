@@ -253,3 +253,5 @@ public:
   }
 };
 } // namespace csv2
+
+namespace CSV = csv2;
